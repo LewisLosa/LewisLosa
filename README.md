@@ -21,4 +21,4 @@ Currently building [Duru](https://github.com/LewisLosa/Duru) (Hotel Management A
 
 ## 🧑‍💻 Visitors
 
-<img src="https://count.getloli.com/@:lewislosa?name=%3Alewislosa&theme=original-new&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"/>
+<img src="https://count.getloli.com/@:lewislosa?name=%3Alewislosa&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"/>
