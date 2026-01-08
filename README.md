@@ -2,8 +2,8 @@
 <a href="https://github.com/lewislosa/duru">
     <img src="https://img.shields.io/badge/Duru-blue?style=for-the-badge" alt="Duru">
 </a>
-<a href="https://github.com/setscript/setscript-desktop">
-    <img src="https://img.shields.io/badge/SetScript--Desktop-green?style=for-the-badge" alt="SetScript">
+<a href="https://github.com/lewislosa/sengozhome">
+    <img src="https://img.shields.io/badge/sengozhome-yellow?style=for-the-badge" alt="Sengozhome">
 </a>
 </h1>
 
