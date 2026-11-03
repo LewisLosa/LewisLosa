@@ -1,24 +1,13 @@
-<h1> 👋 Hi, I'm Eyüp
-<a href="https://github.com/lewislosa/duru">
-    <img src="https://img.shields.io/badge/Duru-blue?style=for-the-badge" alt="Duru">
-</a>
-<a href="https://github.com/lewislosa/sengozhome">
-    <img src="https://img.shields.io/badge/sengozhome-yellow?style=for-the-badge" alt="Sengozhome">
-</a>
-</h1>
+# Eyüp Şengöz
 
-Fullstack developer and Linux enthusiast. Passionate about UI/UX and automation.<br>
-Currently building [Duru](https://github.com/LewisLosa/Duru) (Hotel Management Automation) and exploring Next.js and TypeScript.
+*Software developer · Istanbul, Türkiye*
 
-![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,cs,linux)<br>
+I build software and the systems behind it.
 
- <details>
-  <summary>My Statistics</summary>
-   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=lewislosa&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewislosa&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
-</details>
+Currently working on **eyups.party** - a declarative NixOS homelab focused on self-hosted services, infrastructure as code, and a self-managed Git & CI/CD workflow.
 
-## 🧑‍💻 Visitors
+Mostly interested in **TypeScript**, **Linux**, and **automation**.
+
+My code and projects have moved to **[git.losa.dev](https://git.losa.dev)**.
 
 <img src="https://count.getloli.com/@:lewislosa?name=%3Alewislosa&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"/>
